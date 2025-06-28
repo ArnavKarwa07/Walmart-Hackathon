@@ -1,9 +1,0 @@
-Segment Interpretation Table:
-
-
-|Cluster | Description             | What It Means                     | Action Walmart Can Take              |
-| ------- | ----------------------- | --------------------------------- | ------------------------------------ |
-| 0       | **Loyal High Spenders** | Shop often and spend a lot        | Give them loyalty rewards            |
-| 1       | **At-Risk Customers**   | Haven’t bought in a long time     | Send reactivation emails/offers      |
-| 2       | **New Customers**       | Just started buying, low spending | Offer welcome deals or coupons       |
-| 3       | **Bargain Shoppers**    | Buy often but spend less          | Target with bulk deals/promotions |
